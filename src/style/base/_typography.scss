@@ -1,12 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Farsan&family=Oregano&family=Patrick+Hand+SC&display=swap');
 h1 {
   font-weight: 700;
 }
 
+h3 {
+  font-family: 'Merriweather', serif;
+}
+
 p,
 a {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   font-size: $default-font-size;
 }
 
@@ -49,7 +56,7 @@ a:hover {
     -webkit-text-fill-color: $secondary-color;
   }
 
-  &:hover {
-    transform: translateX(2px);
-  }
+  // &:hover {
+  //   transform: translateX(2px);
+  // }
 }
