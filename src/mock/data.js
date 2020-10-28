@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'expensesapp.png',
     title: 'ExpensesApp',
-    info: 'An expenses management web app with Google authentification. It allows for the addition, editing or removal of expenses. These can be later sorted  on the your dashboard by date or amount within a particular time frame.',
+    info: 'An expenses management web app with Google authentification. It allows for the addition, editing or removal of expenses. These can be later sorted  on the dashboard by date or amount within a particular time frame.',
     info2: 'React . Redux . Firebase . Webpack . Jest/Enzyme . Sass',
     url: 'https://polar-ridge-02454.herokuapp.com/',
     repo: '"https://github.com/ThomasAubert/react-course-expensify', // if no repo, the button will not show up
