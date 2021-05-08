@@ -20,8 +20,8 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hi, I am Thomas. ',
   paragraphTwo: 'I am a former Airline Pilot and Flight instructor with over 5 years experience in high-pressure, performance-driven environments where teamwork and communication are paramount.',
-  paragraphThree: 'When my former airline collapsed at the start of the year due to COVID-19, I decided to follow my passion for building and sharing things online and train as a web developer. I have recently been working with React and its frameworks, but also with PHP & MySQL. ',
-  paragraphFour: 'My next project will be to learn more Python to understand its use in data sciences and its place in web development.',
+  paragraphThree: 'I now work as a Full Stack Software Engineer for a Marketing and Retail company on their award-winning Technology Platform. ',
+  paragraphFour: 'I am familiar with Python, Django and Falcon, SQL and NoSQL databases, JavaScript with either React or Vuejs, and AWS',
   resume: '', // if no resume, the button will not show up
 };
 
