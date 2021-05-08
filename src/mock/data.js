@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hi, I am Thomas. ',
   paragraphTwo: 'I am a former Airline Pilot and Flight instructor with over 5 years experience in high-pressure, performance-driven environments where teamwork and communication are paramount.',
   paragraphThree: 'I now work as a Full Stack Software Engineer for a Marketing and Retail company on their award-winning Technology Platform. ',
-  paragraphFour: 'I am familiar with Python, Django and Falcon, SQL and NoSQL databases, JavaScript with either React or Vuejs, and AWS',
+  paragraphFour: 'I am familiar with Python, Django and Falcon, SQL and NoSQL databases, JavaScript with either React or Vuejs, and AWS.',
   resume: '', // if no resume, the button will not show up
 };
 
